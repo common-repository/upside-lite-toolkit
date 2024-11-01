@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upside Lite Toolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 11:52+0700\n"
+"PO-Revision-Date: 2016-02-24 11:52+0700\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: Kopasoft\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: post-types/brand.php:17
+msgctxt "post type general name"
+msgid "Brands"
+msgstr ""
+
+#: post-types/brand.php:18
+msgctxt "post type singular name"
+msgid "Brand"
+msgstr ""
+
+#: post-types/brand.php:19
+msgctxt "admin menu"
+msgid "Brands"
+msgstr ""
+
+#: post-types/brand.php:20
+msgctxt "add new on admin bar"
+msgid "Brand"
+msgstr ""
+
+#: post-types/brand.php:21
+msgctxt "brand"
+msgid "Add New"
+msgstr ""
+
+#: post-types/brand.php:53
+msgctxt "taxonomy general name"
+msgid "Brand Tags"
+msgstr ""
+
+#: post-types/brand.php:54 post-types/document.php:52
+#: post-types/service.php:54 post-types/testimonial.php:53
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: post-types/course/course.php:153
+msgctxt "post type general name"
+msgid "Courses"
+msgstr ""
+
+#: post-types/course/course.php:154
+msgctxt "post type singular name"
+msgid "Course"
+msgstr ""
+
+#: post-types/course/course.php:155
+msgctxt "admin menu"
+msgid "Courses"
+msgstr ""
+
+#: post-types/course/course.php:156
+msgctxt "add new on admin bar"
+msgid "Course"
+msgstr ""
+
+#: post-types/course/course.php:157
+msgctxt "k_course"
+msgid "Add New"
+msgstr ""
+
+#: post-types/course/course.php:189
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr ""
+
+#: post-types/course/course.php:190
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: post-types/document.php:16
+msgctxt "post type general name"
+msgid "Documents"
+msgstr ""
+
+#: post-types/document.php:17
+msgctxt "post type singular name"
+msgid "Document"
+msgstr ""
+
+#: post-types/document.php:18
+msgctxt "admin menu"
+msgid "Documents"
+msgstr ""
+
+#: post-types/document.php:19
+msgctxt "add new on admin bar"
+msgid "Document"
+msgstr ""
+
+#: post-types/document.php:20
+msgctxt "document"
+msgid "Add New"
+msgstr ""
+
+#: post-types/document.php:51
+msgctxt "taxonomy general name"
+msgid "Document Tags"
+msgstr ""
+
+#: post-types/member/member.php:57
+msgctxt "post type general name"
+msgid "Members"
+msgstr ""
+
+#: post-types/member/member.php:58
+msgctxt "post type singular name"
+msgid "Member"
+msgstr ""
+
+#: post-types/member/member.php:59
+msgctxt "admin menu"
+msgid "Members"
+msgstr ""
+
+#: post-types/member/member.php:60
+msgctxt "add new on admin bar"
+msgid "Members"
+msgstr ""
+
+#: post-types/member/member.php:61
+msgctxt "k_member"
+msgid "Add New"
+msgstr ""
+
+#: post-types/member/member.php:93
+msgctxt "taxonomy general name"
+msgid "Departments"
+msgstr ""
+
+#: post-types/member/member.php:94
+msgctxt "taxonomy singular name"
+msgid "Department"
+msgstr ""
+
+#: post-types/service.php:17
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: post-types/service.php:18
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: post-types/service.php:19
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: post-types/service.php:20
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: post-types/service.php:21
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: post-types/service.php:53
+msgctxt "taxonomy general name"
+msgid "Service Tags"
+msgstr ""
+
+#: post-types/testimonial.php:16
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/testimonial.php:17
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:18
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/testimonial.php:19
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:20
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: post-types/testimonial.php:52
+msgctxt "taxonomy general name"
+msgid "Testimonial Tags"
+msgstr ""
